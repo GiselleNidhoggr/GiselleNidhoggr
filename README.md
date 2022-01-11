@@ -1,12 +1,11 @@
 ## Oi, eu sou a Giselle Almeida, engenheira, ilustradora, cientista de dados e amante de tecnologia!
 
-<div> <img align="left" alt="giselle-gif" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/862400617618997279/930566823936655360/gif_giselle.gif">
-</div>
 
-<div align="auto">
+<div align="center">
+  <img align="left" alt="giselle-gif" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/862400617618997279/930566823936655360/gif_giselle.gif">
   <a href="https://github.com/gisellenidhoggr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gisellenidhoggr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellenidhoggr&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gisellenidhoggr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellenidhoggr&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
