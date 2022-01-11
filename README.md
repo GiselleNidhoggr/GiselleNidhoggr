@@ -1,6 +1,7 @@
 ## Oi, eu sou a Giselle Almeida, engenheira, ilustradora, cientista de dados e amante de tecnologia!
 <div> <img align="left" alt="giselle-gif" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/862400617618997279/930566823936655360/gif_giselle.gif">
 </div>
+
 <div align="center">
   <a href="https://github.com/gisellenidhoggr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gisellenidhoggr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -15,6 +16,7 @@
   <img align="center" alt="giselle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  <br>
  
 <div> 
   <a href="https://www.youtube.com/channel/UCJBAuHiIE4mTZLtGDluQz8A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
