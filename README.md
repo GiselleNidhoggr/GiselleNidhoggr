@@ -12,7 +12,7 @@
 
 Bem vindos ao meu cantinho de estudos!
 
-No texto abaixo, vocês poderão conhecer um pouco mais sobre mim e também visualizar as atividades e materiais desenvolvidos para as tutorias em Inteligência Artificial (IA) do [AI2](/https://advancedinstitute.ai/) em conjunto com a residência do [SENAI/Londrina](/https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/). Então vamos lá!
+No texto abaixo, vocês poderão conhecer um pouco mais sobre mim e também visualizar as atividades e materiais desenvolvidos na minha trajetória profissional. Então vamos lá!
 
 **Sobre mim**
 
