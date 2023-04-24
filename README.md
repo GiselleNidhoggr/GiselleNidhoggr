@@ -1,22 +1,37 @@
-## Oi, eu sou a Giselle Almeida, engenheira, ilustradora, cientista de dados e amante de tecnologia!
+# Boas vindas humanos! 
 
+<div> 
+  <a href="https://discordapp.com/users/Nidhoggr#7477" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/almeida-giselle" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "eng.c.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/GiselleNidhoggr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/gisellenidhoggr" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.deviantart.com/gisellenidhoggr" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
-<div align="center">
-  <img align="left" alt="giselle-gif" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/862400617618997279/930566823936655360/gif_giselle.gif">
-  <a href="https://github.com/gisellenidhoggr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gisellenidhoggr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellenidhoggr&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+Bem vindos ao meu cantinho de estudos!
+
+No texto abaixo, vocês poderão conhecer um pouco mais sobre mim e também visualizar as atividades e materiais desenvolvidos para as tutorias em Inteligência Artificial (IA) do [AI2](/https://advancedinstitute.ai/) em conjunto com a residência do [SENAI/Londrina](/https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/). Então vamos lá!
+
+**Sobre mim**
+
+## Quem sou eu?
+<center> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMrt5DeU8vwmuShG7Wy07iUE-YQVYETvY0DRXJLj-aRYjpb220-obCVWMKkf_T8IPYFKaWbxNrgzFs2DlHHSU7jLl2mZrMkHld6FiXjlA7r56Dc1XyaCQsOmF9Fbw9cyS7P431tAc8T7W60GtPfozF5MP44fo0vgbbp3cz2NeoMT35wwRxIb23RutqiQ/s1080/210594127_347052397126854_6647290532992003245_n.jpg " alt="GiselleNidhoggr na moto" width="200"/></center> 
+
+- Vivendo meio nômade, em alguma cidade linda
+- Técnica em design gráfico
+- Engenheira civil lol
+- MBA em Empreendedorismo e Inovação Tecnológica nas Engenharias (UNESP/UNIVESP/CREA)
+- Cursando 3/4 ano em ciência de dados (UNIVESP)
+- Cursando uma pós maravilhosa em Inteligência Artificial (IA) do SENAI
+- Cursando outra pós em Gestão de Projetos
+- Residente em IA, no SENAI Londrina
+- Aprendendo bandolim (já toco violino :) )
+- Estágio na Compass (pq todo mundo precisa de um compasso rs)
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="giselle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="giselle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="giselle-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="giselle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="giselle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  <br>
+  ---
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UCJBAuHiIE4mTZLtGDluQz8A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
