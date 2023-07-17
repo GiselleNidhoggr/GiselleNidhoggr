@@ -19,22 +19,22 @@ No texto abaixo, vocês poderão conhecer um pouco mais sobre mim e também visu
 ## Quem sou eu?
 <center> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMrt5DeU8vwmuShG7Wy07iUE-YQVYETvY0DRXJLj-aRYjpb220-obCVWMKkf_T8IPYFKaWbxNrgzFs2DlHHSU7jLl2mZrMkHld6FiXjlA7r56Dc1XyaCQsOmF9Fbw9cyS7P431tAc8T7W60GtPfozF5MP44fo0vgbbp3cz2NeoMT35wwRxIb23RutqiQ/s1080/210594127_347052397126854_6647290532992003245_n.jpg " alt="GiselleNidhoggr na moto" width="200"/></center> 
 
-- Vivendo meio nômade, em alguma cidade linda
+- Vivendo em alguma cidade linda
 - Técnica em design gráfico
 - Engenheira civil lol
 - MBA em Empreendedorismo e Inovação Tecnológica nas Engenharias (UNESP/UNIVESP/CREA)
-- Cursando 3/4 ano em ciência de dados (UNIVESP)
+- Cursando último ano em ciência de dados (UNIVESP)
 - Cursando uma pós maravilhosa em Inteligência Artificial (IA) do SENAI
 - Cursando outra pós em Gestão de Projetos
-- Residente em IA, no SENAI Londrina
+- Residente do HUB de IA, no SENAI Londrina
 - Aprendendo bandolim (já toco violino :) )
-- Estágio na Compass (pq todo mundo precisa de um compasso rs)
+- Viciada em cursos
+- Certificada pela AWS
   
   ---
 
  
 <div> 
  
-  ![Snake animation](https://github.com/gisellenidhoggr/gisellenidhoggr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
